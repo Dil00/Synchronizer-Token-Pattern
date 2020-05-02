@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/*JAVA Wrong input */
+.wrong-input {
+	border: 1px solid red;
+	animation: shake 0.5s;
+	animation-iteration-count: 2;
+}
+/*End of java input*/
+#showcase{
+	height: auto;
+	border-bottom: 1px solid #e1fcff;
+	padding-top: 70px;
+}
+
+.billing{
+	background-color: #a2a2a2a8;
+    text-align: center;
+    width: 80%;
+    margin-left: 112px;
+		margin-top: 36px;
+		margin-bottom: 24px;
+    height: auto;
+    top: 42px;
+    left: 10%;
+    border: 2px solid #BDBDBD;
+    border-radius: 4px;
+  	box-shadow: 0px 8px 16px 0px rgba(0,0,0,1);
+}
+.number{
+	width: 400px;
+	height: 28px;
+}
+#card{
+	position: relative;
+	left: 22px;
+}
+#name{
+	position: relative;
+	left: 18px;
+}
+#cvv{
+	position: relative;
+	left: 24px;
+}
+#expiry{
+	position: relative;
+	left: 29px;
+}
+#address p
+{
+  margin-left: 10px;
+}
+
+.bill{
+  text-align: center;
+}
+
+.list{
+	position: relative;
+	top: 127px;
+	text-align: center;
+}
+
+.pay, .pay1 {
+	position: relative;
+    text-align: center;
+    left: 46px;
+}
+
+.button_3{
+	background-color: red;
+ 	position: relative;
+ 	left: 46px;
+ 	width: 108px;
+ 	height: 35px;
+}
+.card{
+	padding-top: 1px;
+	margin-top: 1px;
+}
+.number{
+	padding-top: 1px;
+	margin-top: 1px;
+	width: 300px;
+}
+
+.image2{
+	position: relative;
+	width: 50px;
+}
+
+.image1{
+	list-style: none;
+	padding-bottom: 20px;
+}
+.image1 li{
+	display: inline;
+}
+p2{
+	color: rgb(165, 0, 0);
+	font-size: 10px;
+	position: relative;
+	top: -41px;
+	left: -20px;
+}
